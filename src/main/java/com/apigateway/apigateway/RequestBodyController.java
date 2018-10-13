@@ -7,8 +7,6 @@ import javax.validation.Valid;
 
 import java.util.List;
 
-
-
 @RestController
 @RequestMapping("/requestBodies")
 public class RequestBodyController {
