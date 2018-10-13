@@ -1,4 +1,4 @@
 package com.apigateway.apigateway;
 
-public class FunctionTriggerImpl {
+public class ResponseBodyController {
 }
